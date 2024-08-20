@@ -1,4 +1,5 @@
 <?php 
+
 echo 's2';
 echo 'a2';
 echo 'hello';
@@ -9,3 +10,4 @@ echo 'third one';
 echo 'a1';
 echo 's1';
 echo 'k2';
+echo 'k1';
