@@ -8,3 +8,4 @@ echo 'from second one';
 echo 'third one';
 echo 'a1';
 echo 's1';
+echo 'k2';
