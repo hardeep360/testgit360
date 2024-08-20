@@ -1,5 +1,6 @@
 <?php 
 
+echo 'a2';
 echo 'hello';
 echo 'yello';
 echo 'from master';
